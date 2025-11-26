@@ -4,8 +4,8 @@
 
 Пользователь может добавлять фильмы в избранное и удалять. 
 
-![Главный экран приложения](../screenshots/F.png)
+![Главный экран приложения](../movie-list-app/src/screenshots/F.png)
 
-![Главный экран приложения](../screenshots/S.png)
+![Главный экран приложения](../movie-list-app/src/screenshots/S.png)
 
-![Функционал](../screenshots/T.png)
+![Функционал](../movie-list-app/src/screenshots/T.png)
