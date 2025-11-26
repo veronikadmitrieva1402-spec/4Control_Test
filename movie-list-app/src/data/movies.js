@@ -58,5 +58,5 @@ export const moviesData = [
     rating: 8.9,
     description: "История немецкого промышленника, спасшего жизни тысяч польских евреев во время Холокоста.",
     isFavorite: false
-  }
+}
 ];
